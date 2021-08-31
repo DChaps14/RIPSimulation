@@ -1,0 +1,3 @@
+router-id: 4
+input-ports: 5004, 5005
+outputs: 4001-15-2, 3001-1-3
